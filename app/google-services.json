@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904388721411",
+    "project_id": "fitoutapp-ea643",
+    "storage_bucket": "fitoutapp-ea643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904388721411:android:bf3d5de9f5e429d4f60736",
+        "android_client_info": {
+          "package_name": "com.example.fitout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904388721411-ovld3nfgnph0jk6u2kr99e6nej1j4jj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYufDQv6_eEXZAbrFN80YWEpWWPlr5iz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904388721411-ovld3nfgnph0jk6u2kr99e6nej1j4jj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
